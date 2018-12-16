@@ -1,0 +1,5 @@
+print("Введiть числа")
+a = float(input("Введiть число a: "))
+b = float(input("Введiть число b: "))     
+c = float(input("Введiть число c: "))
+print("Сума дорiвнює: ", a+b+c) 
